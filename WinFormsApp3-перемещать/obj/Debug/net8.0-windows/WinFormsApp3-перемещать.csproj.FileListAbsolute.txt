@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\bin\Debug\net8.0-windows\WinFormsApp3-перемещать.exe
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\bin\Debug\net8.0-windows\WinFormsApp3-перемещать.deps.json
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\bin\Debug\net8.0-windows\WinFormsApp3-перемещать.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\bin\Debug\net8.0-windows\WinFormsApp3-перемещать.dll
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\bin\Debug\net8.0-windows\WinFormsApp3-перемещать.pdb
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3_перемещать.Form1.resources
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.dll
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\refint\WinFormsApp3-перемещать.dll
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.pdb
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\WinFormsApp3-перемещать.genruntimeconfig.cache
+C:\Users\user\source\repos\WinFormsApp3-перемещать\WinFormsApp3-перемещать\obj\Debug\net8.0-windows\ref\WinFormsApp3-перемещать.dll
